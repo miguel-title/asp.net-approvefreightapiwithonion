@@ -1,0 +1,17 @@
+E:\apiwithonion\apiwithonion\apiwithonion.Service\bin\Debug\net5.0\apiwithonion.Service.deps.json
+E:\apiwithonion\apiwithonion\apiwithonion.Service\bin\Debug\net5.0\apiwithonion.Service.dll
+E:\apiwithonion\apiwithonion\apiwithonion.Service\bin\Debug\net5.0\ref\apiwithonion.Service.dll
+E:\apiwithonion\apiwithonion\apiwithonion.Service\bin\Debug\net5.0\apiwithonion.Service.pdb
+E:\apiwithonion\apiwithonion\apiwithonion.Service\bin\Debug\net5.0\apiwithonion.Domain.dll
+E:\apiwithonion\apiwithonion\apiwithonion.Service\bin\Debug\net5.0\apiwithonion.Persistence.dll
+E:\apiwithonion\apiwithonion\apiwithonion.Service\bin\Debug\net5.0\apiwithonion.Persistence.pdb
+E:\apiwithonion\apiwithonion\apiwithonion.Service\bin\Debug\net5.0\apiwithonion.Domain.pdb
+E:\apiwithonion\apiwithonion\apiwithonion.Service\obj\Debug\net5.0\apiwithonion.Service.csprojAssemblyReference.cache
+E:\apiwithonion\apiwithonion\apiwithonion.Service\obj\Debug\net5.0\apiwithonion.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\apiwithonion\apiwithonion\apiwithonion.Service\obj\Debug\net5.0\apiwithonion.Service.AssemblyInfoInputs.cache
+E:\apiwithonion\apiwithonion\apiwithonion.Service\obj\Debug\net5.0\apiwithonion.Service.AssemblyInfo.cs
+E:\apiwithonion\apiwithonion\apiwithonion.Service\obj\Debug\net5.0\apiwithonion.Service.csproj.CoreCompileInputs.cache
+E:\apiwithonion\apiwithonion\apiwithonion.Service\obj\Debug\net5.0\apiwithonion.Service.csproj.CopyComplete
+E:\apiwithonion\apiwithonion\apiwithonion.Service\obj\Debug\net5.0\apiwithonion.Service.dll
+E:\apiwithonion\apiwithonion\apiwithonion.Service\obj\Debug\net5.0\ref\apiwithonion.Service.dll
+E:\apiwithonion\apiwithonion\apiwithonion.Service\obj\Debug\net5.0\apiwithonion.Service.pdb
